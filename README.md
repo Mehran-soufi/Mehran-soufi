@@ -34,7 +34,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mehran-soufi-3a635b275/" target="_blank">
+  <a href="https://www.linkedin.com/in/mehran-soufi/" target="_blank">
     LinkedIn
   </a>
 </p>
