@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineer | Frontend Developer</h3>
 
 <p align="center">
-  Building modern and responsive web experiences with React and Next.js.
+  Building modern, responsive, and user-friendly web experiences with React and Next.js.
 </p>
 
 ---
@@ -12,12 +12,10 @@
 
 - 🎓 Computer Engineering graduate
 - 💻 Focused on frontend development and modern web technologies
-- ⚛️ Working with React and Next.js
-- 🟦 Comfortable with JavaScript and TypeScript
-- 🚀 Currently building and improving personal projects
-- 🌐 Portfolio: <a href="https://mehran-soufi.github.io/portfolio/fa" target="_blank">
-    View
-  </a>
+- ⚛️ Building applications with React and Next.js
+- 🟦 Working with JavaScript and TypeScript
+- 🎨 Interested in clean UI, responsive design, and user experience
+- 🚀 Continuously learning and improving through personal projects
 
 ### 🛠️ Technologies & Tools
 
@@ -33,10 +31,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
+### 🌐 Portfolio & Resume
+
+<p align="left">
+  🌐 <a href="https://mehran-soufi.github.io/portfolio/fa" target="_blank">View Portfolio</a>
+  <br/>
+  📄 <a href="https://mehran-soufi.github.io/portfolio/resume/Mehran-Soufi-Resume.pdf" target="_blank">View Resume</a>
+</p>
+
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mehran-soufi/" target="_blank">
-    LinkedIn
-  </a>
+  <a href="https://www.linkedin.com/in/mehran-soufi/" target="_blank">LinkedIn</a>
 </p>
