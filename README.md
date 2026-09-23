@@ -15,7 +15,9 @@
 - ⚛️ Working with React and Next.js
 - 🟦 Comfortable with JavaScript and TypeScript
 - 🚀 Currently building and improving personal projects
-- 🌐 Portfolio: Coming soon
+- 🌐 Portfolio: <a href="https://mehran-soufi.github.io/portfolio/fa" target="_blank">
+    View
+  </a>
 
 ### 🛠️ Technologies & Tools
 
